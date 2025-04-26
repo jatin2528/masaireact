@@ -87,6 +87,9 @@
   .feedback-item:hover {
     transform: translateY(-5px);
   }
+  button.sub {
+      padding:5px 8px;
+  }
  
   button.delete-btn {
     position: absolute;
